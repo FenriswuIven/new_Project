@@ -1,0 +1,16 @@
+﻿Mini-Projeto carrinho de compras:
+
+1 – Crie uma classe cliente, contendo nome do cliente, id do cliente, ciadade e endereço;
+
+2 – Crie uma classe produto, contendo id do produto, descrição do produto e valor do produto;
+
+3 – Crie uma classe carrinho, que tenha métodos de adicionar e deletar produtos do carrinho, lembrando de guardar no carrinho o id do cliente e do produto, além da quantidade adicionada, valor do produto e valor total;
+
+4 – Após a contrução das classes, execute as seguintes ações:
+
+    1. 4.1 – Crie dois ou mais objetos cliente, entre 4 ou 5 objetos produtos;
+    2. 4.2 – Adicione e remova itens do carrinho se atentando aos valores totais e a ligação entre produto e cliente;
+
+5 – No final das ações acima, exiba, todos os clientes criados, todos os produtos criados, todos os produtos do carrinho com os devidos produtos e clientes relacionados.
+
+OBS: Deve ser utilizado orientação a objeto para o projeto e seguir os guidelines de escrita descritos no pep8: https://www.python.org/dev/peps/pep-0008/
